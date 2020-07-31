@@ -9,6 +9,6 @@ branches:
     - master
 deploy:
   provider: heroku
-  app: "trevis-heroku-test"
+  app: trevis-heroku-test
   api_key:
-    secure: "0e4f7d59-adb2-4a33-bd44-1172c423c39c"
+    secure: 0e4f7d59-adb2-4a33-bd44-1172c423c39c
